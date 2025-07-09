@@ -44,5 +44,5 @@ python rockpaperscissors.py
 
 ## Credits
 
-This project was created based on a tutorial by [Bro Code on YouTube](https://www.youtube.com/watch?v=V9MbQ2Xl4CE&list=WL&index=8).  
+This project was created based on a tutorial by [Tech With Tim on YouTube](https://www.youtube.com/watch?v=NpmFbWO6HPU&t=2707s).
 Thanks to the original creator for the inspiration!
